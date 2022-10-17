@@ -1,0 +1,18 @@
+/* Here is a comment */
+h1 {
+    color: red;
+    background-color: #0022FF; 
+    border: 2px solid purple;
+    padding: .5em
+
+}
+
+h2{
+    color: hsl(1,44,100);
+    background-color: rgb(222,22,1); 
+    margin: auto
+}
+
+p{
+    margin-top:10vx
+}
