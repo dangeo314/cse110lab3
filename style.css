@@ -1,7 +1,11 @@
 /* Here is a comment */
 h1 {
     color: red;
+
     background-color: #0022FF; 
+
+    /* background-color: #0022FF; */
+
     border: 2px solid purple;
     padding: .5em
 
@@ -9,7 +13,9 @@ h1 {
 
 h2{
     color: hsl(1,44,100);
+
     background-color: rgb(222,22,1); 
+
     margin: auto
 }
 
